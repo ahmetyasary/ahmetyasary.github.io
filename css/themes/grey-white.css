@@ -12,3 +12,13 @@ main {
 .icons-social a svg path{
 	fill: #FAFAFA;
 }
+
+.doc-btn {
+	color: #FAFAFA;
+}
+
+.doc-btn:hover,
+.doc-btn:focus-visible {
+	background: #FAFAFA;
+	color: #485564;
+}
